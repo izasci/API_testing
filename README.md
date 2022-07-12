@@ -1,2 +1,2 @@
 ## Status of changes
- * Name of project change - Calculator > Abacus
+ * 12.07.22 Name change - Calculator > Abacus
